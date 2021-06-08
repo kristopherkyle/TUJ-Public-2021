@@ -1,4 +1,4 @@
-# Schedule and resources for Kristopher Kyle's TUJ Public Session
+# Schedule and resources
 (2021-06-12)
 
 ## Schedule

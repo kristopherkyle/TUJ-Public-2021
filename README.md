@@ -5,7 +5,7 @@
 
 
 | Time | Topic/Activity |
-|------|----------------|
+|-----------------|----------------|
 | 10:00-11:00am | Introduction to the construct of productive lexical proficiency (lecture) |
 | 11:00-11:20am | Q/A Session 1 |
 | 11:20-11:35am | Break (Kris will have camera off) |

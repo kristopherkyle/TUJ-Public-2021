@@ -4,14 +4,14 @@
 ## Schedule
 
 
-| Time | Topic/Activity |
-|-----------------|----------------|
-| 10:00-11:00am | Introduction to the construct of productive lexical proficiency (lecture) |
-| 11:00-11:20am | Q/A Session 1 |
-| 11:20-11:35am | Break (Kris will have camera off) |
-| 11:35am-12:35pm | Introduction to researching lexical proficiency using learner corpora (lecture) |
-| 12:35-12:55pm | Q/A Session 2 |
-| 12:55-1:00pm | Brief closing remarks |
+| Time | Topic/Activity | Readings/Resources |
+|-----------------|----------------|----------------|
+| 10:00-11:00am | Introduction to the construct of productive lexical proficiency (lecture) | [Kyle (2020)](), [Kyle et al., (2018)]()|
+| 11:00-11:20am | Q/A Session 1 ||
+| 11:20-11:35am | Break (Kris will have camera off) ||
+| 11:35am-12:35pm | Introduction to researching lexical proficiency using learner corpora (lecture) | [Gilquin (2015)](), [Meunier (2015)](), [Zenker & Kyle (2021)]()|
+| 12:35-12:55pm | Q/A Session 2 ||
+| 12:55-1:00pm | Brief closing remarks ||
 
 
 ## Resources

@@ -20,6 +20,6 @@
 [Final Project Guidelines](https://github.com/kristopherkyle/TUJ-Public-2021/raw/main/docs/Distinguished%20Lecturer%20Series%20Project_Kyle_2021.doc)
 
 ### Helpful tools
-[Tool for the automatic analysis of lexical diversity (TAALED)](https://www.linguisticanalysistools.org/taaled.html)
-[Tool for the automatic analysis of lexical sophistication (TAALES)](https://www.linguisticanalysistools.org/taales.html)
-[Tool for the automatic analysis of syntactic sophistication and complexity (TAASSC)](https://www.linguisticanalysistools.org/taassc.html) 
+- [Tool for the automatic analysis of lexical diversity (TAALED)](https://www.linguisticanalysistools.org/taaled.html)
+- [Tool for the automatic analysis of lexical sophistication (TAALES)](https://www.linguisticanalysistools.org/taales.html)
+- [Tool for the automatic analysis of syntactic sophistication and complexity (TAASSC)](https://www.linguisticanalysistools.org/taassc.html)

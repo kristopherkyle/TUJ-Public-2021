@@ -37,7 +37,7 @@
 - More focused studies on contextual diversity and decision times (Berger et al., 2017, in press)
 - More focused studies on n-grams (Garner et al., 2019, 2020)
 - Also see other related studies on my webpage: http://www.kristopherkyle.com/publicationsgrants.html
- 
+
 #### Reference List:
 
 Berger, C. M., Crossley, S. A., & Kyle, K. (2017). Using Novel Word Context Measures to Predict Human Ratings of Lexical Proficiency. Journal of Educational Technology & Society, 20(2), 201–212.
